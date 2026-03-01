@@ -52,7 +52,10 @@ nav ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap:1em;
+    gap:2em;
+}
+.nav3 li:first-child {
+    margin-right: auto;
 }
 .nav3 li:last-child{
     margin-left: auto;
